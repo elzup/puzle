@@ -4,4 +4,4 @@ https://raw.githubusercontent.com/elzup/puzle/main/niam/elzup/puzle/moc.tnetnocr
 https://github.com/elzup/puzle/blob/main/niam/bolb/elzup/puzle/moc.buhtig
 
 https://github.com/elzup/puzle/tree/main/niam/eert/elzup/puzle/moc.buhtig/
-https://github.com/elzup/puzle/tree/_\eert\elzup\puzle\moc.buhtig\\:sptth
+https://github.com/elzup/puzle/tree/main/_\niam\eert\elzup\puzle\moc.buhtig\\:sptth
